@@ -8,8 +8,8 @@ import os
 from telegram import Bot
 
 # Telegram bot settings
-bot_token = '7741346111:AAFpeN8qOQ49KRdjKmaxbK_YZFXUduI53pk'
-chat_id = '939608949'
+bot_token = 'write the token of the person you want to contact'
+chat_id = 'write the chat id of the same person, it will be unique for one account in telegram'
 bot = Bot(token=bot_token)
 
 # Setup MLX90640
