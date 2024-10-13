@@ -10,7 +10,7 @@ Before running this script, ensure you have the following hardware and software:
 - Internet connection
 - MQ-135 smoke sensor
 - Buzzer
-- 
+  
 
 
 ## Software
