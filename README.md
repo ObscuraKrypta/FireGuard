@@ -79,4 +79,5 @@ chat_id = 'YOUR_CHAT_ID'
 i2cdetect -y 1
 ```
 Note: You should see the I2C address of the camera (usually 0x33).
+
 6- Run the file -> FireGuard_.py
