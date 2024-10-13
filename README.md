@@ -41,10 +41,10 @@ pip install board busio
 ## How to install and run the project
 # 1-Connecting thermal camera MLX90640
 Connect the MLX90640 thermal camera to the Raspberry Pi's I2C pins:
-- 3.3v -> VCC
-- GND  -> GND
-- SDA -> Pin 3
-- SCL  -> Pin 5
+- 3.3v  -> VCC
+- GND   -> GND
+- SDA   -> Pin 3
+- SCL   -> Pin 5
 
 # 2-Buzzer connection:
 
